@@ -71,8 +71,8 @@ When we examine the Data, we observe a number of Different Columns.
 
 # ✅ Installation : ETL Tools ✅
 
-Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Tableau Public.
-- Tableau Public Installation Link :- https://www.microsoft.com/en-us/power-platform/products/power-bi
+Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Microsoft Power Bi.
+- Power Bi Installation Link :- https://www.microsoft.com/en-us/power-platform/products/power-bi
   
 # 🧹 Data Cleaning ✨
 
