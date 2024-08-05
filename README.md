@@ -32,88 +32,68 @@ This Analytical approach not only Enhances Operational Efficiency but also Foste
 
 # 🚀 Project Goal
 
-The goal of this project is to develop a cutting-edge HR Analytics Dashboard that seamlessly integrates advanced data visualizations to provide actionable insights into workforce metrics, thereby enabling strategic decision-making and enhancing organizational efficiency.
+The Goal of this Project is to Develop a Cutting-Edge HR Analytics Dashboard that Seamlessly integrates Advanced Data Visualizations to provide Actionable Insights into Workforce Metrics, thereby Enabling Strategic Decision-Making and Enhancing Organizational Efficiency.
 
 # Project Motivation
 
-Driven by an unwavering passion for data analytics and a fervent commitment to advancing my career, I am motivated by the opportunity to leverage my skills to create impactful solutions that drive meaningful improvements in HR management and contribute to my professional growth.
+Driven by an Unwavering Passion for Data Analytics and a Fervent Commitment to Advancing my Career, I am Motivated by the Opportunity to Leverage my skills to create Impactful Solutions that Drive Meaningful Improvements in HR Management and Contribute to my Professional Growth.
+
 # ⏳ Dataset
 
-The NETFLIX Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
+The HR Analytics Dataset is a combination of 4 Excel Files, featuring Comprehensive and Meticulously Detailed Sheets.
 - Kindly Access and Download the Dataset via the Link provided below
-- Link :- https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/970f60a1d8a0ad07aeab0c9b0b70b776b225877f/Raw%20Data.csv
-
+- Raw Data 1 Link :- [data.csv promomtion.csv](https://github.com/user-attachments/files/16493397/data.csv.promomtion.csv)
+- Raw Data 2 Link :- [data.csv Retrenchment.csv](https://github.com/user-attachments/files/16493399/data.csv.Retrenchment.csv)
+- Raw Data 3 Link :- [HR Analytics Data.csv](https://github.com/user-attachments/files/16493401/HR.Analytics.Data.csv)
+- Raw Data 4 Link :- [HR employee data.csv](https://github.com/user-attachments/files/16493403/HR.employee.data.csv)
+  
 ## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
 
-- Show Id : A Unique Identifier for each Netflix Show or Movie. 🎬
-- Type : The Classification of the Content, such as Movie or TV Show. 📺🎥
-- Title : The Name of the Show or Movie. 🎥📜
-- Director : The Individual who Directed the Show or Movie. 🎬👨‍🎨
-- Cast : The Actors and Actresses featured in the Show or Movie. 🎭👫
-- Country : The Country where the Show or Movie was Released. 🌍
-- Date Added : The Date when the Show or Movie was Added to Netflix. 📅✨
-- Release Year : The Year the Show or Movie was Originally Released. 📆🎉
-- Ratings : The Rating or Score given to the Show or Movie. ⭐📊
-- Duration : The Length of the Show or Movie, typically in Minutes. ⏱️🎬
-- Genre : The Category of the Show or Movie, such as Comedy, Drama, thriller, etc. 🎭🎬
-- Description : A Brief Summary or Overview of the Show or Movie. 📖✨
-
 # Requirement
 
-- ✅ Total Releases by Country.
-- ✅ Top 10 Genres.
-- ✅ Total Releases by Year.
-- ✅ Distribution of Ratings.
-- ✅ Distribution of Movies and TV Shows.
-- ✅ Detailed Insights of the Selected Movies or TV Shows.
+- ✅ Total Employees🧑🧔🏻👩👩🏻‍💼
+- ✅ Male Employees 🧑
+- ✅ Female Employees 👩
+- ✅ Percentage of Employees with due for Promotion 💰
+- ✅ Percentage of Employees with No due for Promotion 💰
+- ✅ Active Workers 👨🏻‍💻👩🏻‍💻
+- ✅ Next Retrenchment
+- ✅ Employees with High Ratings ⭐⭐⭐
+- ✅ Employees with Low Ratings ⭐
+- ✅ Employees by Job Levels 👨🏻‍💻
+- ✅ Employees by Service Years
+- ✅ Distance from Office
+- ✅ Due for Promotion and Retrenchment by the Department 🏬
+- ✅ Total Employees with Job Satisfaction
+- ✅ Employees by Over Time
 
 # ✅ Installation : ETL Tools ✅
 
 Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Tableau Public.
-- Tableau Public Installation Link :- [https://public.tableau.com](https://www.tableau.com/products/public)
-
+- Tableau Public Installation Link :- https://www.microsoft.com/en-us/power-platform/products/power-bi
+  
 # 🧹 Data Cleaning ✨
 
 - Changed the Data Types wherever required.📅
 - Removed Duplicates.
 - Replaced data with meaningful data etc.📝
 - Applied Sorting and Filters📶
+- Created New Measures
 
 # 🚀 My Project
 
-Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈. Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Movies🎭🎥 and TV Shows📺🎬.
+Comprehensive Analysis has been conducted on the Datasets, illustrated through a Variety of Engaging Plots📊📈. I have created 3 Sheets for this Dashboard using Power Bi. 
 
-This Illustrates the Details about the Movie "2 States". 
-![Analysis 1](https://github.com/user-attachments/assets/e540a65a-923f-4c0e-8d2b-c089cbb1db0f)
+This Illustrates the Analysis of "Home" Sheet. 
+![Analysis 1](https://github.com/user-attachments/assets/26786657-640c-414c-bb1d-49b9f32fe6ef)
 
-This Illustrates the Details about the Movie "3 Idiots".
-![Analysis 2](https://github.com/user-attachments/assets/79c701b7-dc27-4e23-804e-fddb06872428)
+This Illustrates the Analysis of "Action" Sheet. 
+![Analysis 2](https://github.com/user-attachments/assets/e45a335c-959c-4fe1-b9a8-5a811c619f28)
 
-This Illustrates the Details about the TV Show "Godzilla".
-![Analysis 3](https://github.com/user-attachments/assets/abc387d4-87cc-48e7-9e69-cc7e4b18be9d)
-
-This Illustrates the Details about the TV Show "The Conjuring".
-![Analysis 4](https://github.com/user-attachments/assets/db7cee8e-888e-4245-9a82-9938dd011232)
-
-This Illustrates the Total Releases in "India".
-![Analysis 5](https://github.com/user-attachments/assets/945d8fdb-37b3-4124-b584-982d927c2732)
-
-This Illustrates the Total Releases in "United States".
-![Analysis 6](https://github.com/user-attachments/assets/df614bd1-00d4-4ca2-ba07-4c357c6e2cc7)
-
-This Illustrates the Total Releases with "TV-MA Ratings".
-![Analysis 7](https://github.com/user-attachments/assets/452360b6-fbef-4e97-88ce-cdf35cec1eb3)
-
-This Illustrates the  Distribution of Total Releases in the "Movie" Type.
-![Analysis 8](https://github.com/user-attachments/assets/ba655077-69c8-491c-a497-a9c84c529b81)
-
-This Illustrates the Total Releases by Year in "TV Shows" Type.
-![Analysis 9](https://github.com/user-attachments/assets/02b11ca2-e198-42d2-b6e1-d5f16a388682)
-
-This Illustrates the Total Releases by Genre "Children & Family Movies, Comedies".
-![Analysis 10](https://github.com/user-attachments/assets/5b21cdfa-e859-4717-b952-4a4179d90c42)
+This Illustrates the Analysis of "Details" Sheet.
+![Analysis 3](https://github.com/user-attachments/assets/f863cadb-19ef-4e13-a94d-930daa8eba53)
 
 # Author 🙎‍♀️  
 
@@ -123,13 +103,13 @@ This Illustrates the Total Releases by Genre "Children & Family Movies, Comedies
 # 📝 Lessons Learnt 
 
 - ⭐Data Quality is Crucial
+- ⭐Understand Your Audience
 - ⭐Effective Data Visualization
-- ⭐User Friendly Design
-- ⭐Filtering and Interactivity
-- ⭐Performance Optimization
-- ⭐Consistent Data Formatting
-- ⭐Scalability Considerations
-- ⭐Feedback Integration
+- ⭐Dashboard Performance
+- ⭐Data Privacy and Security
+- ⭐User Interactivity
+- ⭐Regular Updates and Maintenance
+- ⭐Clear and Actionable Insights
 
 # ✍ Acknowledgement
 
