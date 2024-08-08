@@ -87,7 +87,7 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 Comprehensive Analysis has been conducted on the Datasets, illustrated through a Variety of Engaging Plots📊📈. I have created 3 Sheets for this Dashboard using Power Bi. 
 
 This Illustrates the Analysis of "Home" Sheet. 📍 
-![Analysis 1](https://github.com/user-attachments/assets/26786657-640c-414c-bb1d-49b9f32fe6ef)
+![Analysis 1](https://github.com/user-attachments/assets/81b332b4-6685-413d-b6ec-155385c6f990)
 
 This Illustrates the Analysis of Employees with "8 Years" of Service. 📍 
 ![Analysis 4](https://github.com/user-attachments/assets/f1a86757-f25a-4782-8b4c-976c47df3f12)
@@ -105,10 +105,10 @@ This Illustrates the Analysis of Employees who stay "Very Far" from the Office. 
 ![Analysis 8](https://github.com/user-attachments/assets/58f8a3db-7b55-4902-9eea-9f8c9d805e9a)
 
 This Illustrates the Analysis of "Action" Sheet. 📍
-![Analysis 2](https://github.com/user-attachments/assets/e45a335c-959c-4fe1-b9a8-5a811c619f28)
+![Analysis 2](https://github.com/user-attachments/assets/81cf1cd9-3c55-44d0-8689-4a34d3932ebb)
 
 This Illustrates the Analysis of "Details" Sheet. 📍
-![Analysis 3](https://github.com/user-attachments/assets/f863cadb-19ef-4e13-a94d-930daa8eba53)
+![Analysis 3](https://github.com/user-attachments/assets/a09c0a44-91e5-457b-afc1-3cab4b20ba99)
 
 This Illustrates the Analysis of Employees with "High" Job Satisfaction. 📍 
 ![Analysis 9](https://github.com/user-attachments/assets/c655f749-726d-4370-b6a2-21f0cdf0c35f)
