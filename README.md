@@ -42,7 +42,7 @@ Driven by an Unwavering Passion for Data Analytics and a Fervent Commitment to A
 
 The HR Analytics Dataset is a combination of 4 Excel Files, featuring Comprehensive and Meticulously Detailed Sheets.
 - Kindly Access and Download the Dataset via the Link provided below
-- Raw Data 1 Link :- https://github.com/MansiPS/HR-Analytics-Dashboard-using-Power-Bi/blob/ce8b54ae37781012512675901a4189b537598e47/Raw%20Data-HR%20Analytics%20Data.csv
+- Raw Data 1 Link :- [data.csv promomtion.csv](https://github.com/user-attachments/files/16550727/data.csv.promomtion.csv)
 - Raw Data 2 Link :- https://github.com/MansiPS/HR-Analytics-Dashboard-using-Power-Bi/blob/ce8b54ae37781012512675901a4189b537598e47/Raw%20Data-HR%20Employee%20Data.csv
 - Raw Data 3 Link :- https://github.com/MansiPS/HR-Analytics-Dashboard-using-Power-Bi/blob/ce8b54ae37781012512675901a4189b537598e47/Raw%20Data-Promotion%20Data.csv
 - Raw Data 4 Link :- https://github.com/MansiPS/HR-Analytics-Dashboard-using-Power-Bi/blob/ce8b54ae37781012512675901a4189b537598e47/Raw%20Data-Retrenchment%20Data.csv
