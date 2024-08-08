@@ -86,28 +86,51 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 Comprehensive Analysis has been conducted on the Datasets, illustrated through a Variety of Engaging Plots📊📈. I have created 3 Sheets for this Dashboard using Power Bi. 
 
-This Illustrates the Analysis of "Home" Sheet. 
+This Illustrates the Analysis of "Home" Sheet. 📍 
 ![Analysis 1](https://github.com/user-attachments/assets/26786657-640c-414c-bb1d-49b9f32fe6ef)
 
+This Illustrates the Analysis of Employees with "8 Years" of Service. 📍 
 ![Analysis 4](https://github.com/user-attachments/assets/f1a86757-f25a-4782-8b4c-976c47df3f12)
+
+This Illustrates the Analysis of Employees with "16 Years" of Service. 📍 
 ![Analysis 5](https://github.com/user-attachments/assets/85aa6d1f-b661-4489-8e80-d6a8d6234e6d)
+
+This Illustrates the Analysis of Employees with "Job Level-1". 📍 
 ![Analysis 6](https://github.com/user-attachments/assets/93e4c174-07e8-48fd-bc6d-ba6f46869460)
+
+This Illustrates the Analysis of Employees who stay "Very Close" to the Office. 📍 
 ![Analysis 7](https://github.com/user-attachments/assets/d2c6a56a-9a69-4211-a85d-105bfc86d187)
+
+This Illustrates the Analysis of Employees who stay "Very Far" from the Office. 📍 
 ![Analysis 8](https://github.com/user-attachments/assets/58f8a3db-7b55-4902-9eea-9f8c9d805e9a)
 
-This Illustrates the Analysis of "Action" Sheet. 
+This Illustrates the Analysis of "Action" Sheet. 📍
 ![Analysis 2](https://github.com/user-attachments/assets/e45a335c-959c-4fe1-b9a8-5a811c619f28)
 
-This Illustrates the Analysis of "Details" Sheet.
+This Illustrates the Analysis of "Details" Sheet. 📍
 ![Analysis 3](https://github.com/user-attachments/assets/f863cadb-19ef-4e13-a94d-930daa8eba53)
 
+This Illustrates the Analysis of Employees with "High" Job Satisfaction. 📍 
 ![Analysis 9](https://github.com/user-attachments/assets/c655f749-726d-4370-b6a2-21f0cdf0c35f)
+
+This Illustrates the Analysis of Employees with "Medium" Job Satisfaction. 📍 
 ![Analysis 10](https://github.com/user-attachments/assets/51f1fad8-886f-4e92-a868-8e3930ae2f25)
+
+This Illustrates the Analysis of Employees with "No" Over Time. 📍 
 ![Analysis 11](https://github.com/user-attachments/assets/3b36f211-391c-4fdb-8985-45e4fbd63d41)
+
+This Illustrates the Analysis of Employees who are "Healthcare Representatives". 📍
 ![Analysis 12](https://github.com/user-attachments/assets/ca171416-64c4-4466-b6b4-3fd2fe511d31)
+
+This Illustrates the Analysis of Employees who are "Sales Representatives". 📍
 ![Analysis 13](https://github.com/user-attachments/assets/20aeb658-d0d4-40bb-84bf-a21cf2b56f34)
+
+This Illustrates the Analysis of Employees who work in "Sales" Department. 📍
 ![Analysis 14](https://github.com/user-attachments/assets/cd397c16-febc-4f63-89bf-42e8d0c3862e)
+
+This Illustrates the Analysis of Employees who work in "Research and Development" Department. 📍
 ![Analysis 15](https://github.com/user-attachments/assets/c7bf5fbb-87cb-4fc0-bd4d-e62344bcc6f9)
+
 # Author 🙎‍♀️  
 
 ![157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://github.com/user-attachments/assets/918f0183-1331-43d1-8de5-f074326c2cfb)
